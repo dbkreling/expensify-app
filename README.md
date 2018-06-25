@@ -157,3 +157,11 @@ To add 14 and 15, the steps are:
   Go to node_modules and verify its path: normalize.css/normalize.css and import it to app.js;
 
   Addjust webpack to accept css as well.
+
+18) Install react-router:
+
+    Documentation: https://github.com/ReactTraining/react-router
+    Documentation: https://reacttraining.com/react-router/
+    Command: yarn add react-router-dom@4.2.2
+
+    react-router-dom install all the react-router API for web apps, and not the complete API wich include react native as well (for react native, install react-router-native).
